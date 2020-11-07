@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 
 ### 大家好, 我是 [dadovicn!](https://dadovicn.github.io) 👋
 
-大家好， 我是996大军的一员，职场pua的受害者
+大家好， 我是996大军的一员
 
-- 🔭 我正在忙着给公司擦屁股
-- 🌱 根本没时间学习
-- 👯 希望年前能摆脱这个现状
-- 💬 记录一下被pua的经历 [这里](https://github.com/dadovicn/dadovicn/issues)
+- 🔭 我是劣币
+- 💬 划水日记 [这里](https://github.com/dadovicn/dadovicn/issues)
 
 **Languages and Tools:**  
 
