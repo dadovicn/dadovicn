@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ### 大家好, 我是 [dadovicn!](https://dadovicn.github.io) 👋
 
 
-- 🔭 我是劣币
 
 **Languages and Tools:**  
 
