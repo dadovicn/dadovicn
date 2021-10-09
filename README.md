@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 
 ### 大家好, 我是 [dadovicn!](https://dadovicn.github.io) 👋
 
-大家好， 我是996大军的一员
 
 - 🔭 我是劣币
-- 💬 划水日记 [这里](https://github.com/dadovicn/dadovicn/issues)
 
 **Languages and Tools:**  
 
